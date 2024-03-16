@@ -1,1 +1,1 @@
-# Projeto-de-Calculadora-Estatistica
+# Calculadora-Estatistica
